@@ -7,7 +7,7 @@ st.title("CRICKET IS NOT JUST A GAME")
 st.write("నాకు ఇష్టమైన ప్లేయర్స్ మరియు వారి రికార్డులు ఇక్కడ ఉన్నాయి!")
 
 # క్రికెట్ డేటా
-data = {'ప్లేయర్ పేరు': ['Virat Kohli', 'keerthan reddy', 'Rohit Sharma', 'Sachin Tendulkar, 'Ashhok Reddy',],
+data = {'ప్లేయర్ పేరు': ['Virat Kohli', 'keerthan reddy', 'Rohit Sharma', 'Sachin Tendulkar', 'Ashhok Reddy',],
     'మ్యాచ్‌లు': [295, 350, 262, 463,1000,],
     'రన్స్': [13848, 10773, 10709, 18426,86000,],
     'సంచరీలు (100s)': [50, 10, 31, 49,124,],
